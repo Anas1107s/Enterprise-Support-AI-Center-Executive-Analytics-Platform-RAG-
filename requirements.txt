@@ -2,6 +2,8 @@ streamlit
 pandas
 langchain
 langchain-community
+langchain-core
 langchain-groq
 sentence-transformers
 chromadb
+protobuf==4.25.1
