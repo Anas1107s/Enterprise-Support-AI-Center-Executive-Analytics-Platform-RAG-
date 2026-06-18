@@ -1,6 +1,6 @@
 # 🤖 Enterprise Support AI Center & Executive Analytics Platform (RAG)
 
-An enterprise-ready, context-aware Retrieval-Augmented Generation (RAG) system combined with an operational Business Intelligence analytics layer. This application allows a company to securely feed private internal policy documentation to an LLM, extract factually bounded answers for consumers, and analyze customer pain points via a live administrative dashboard.
+An enterprise-ready, context-aware Retrieval-Augmented Generation (RAG) system combined with an operational Business Intelligence analytics layer. This application allows a company to securely ingest internal policy documentation, extract factually bounded answers for consumers via high-speed cloud inference, and analyze support metrics through a live administrative dashboard.
 
 ## 🔗 Production Links
 👉 **[Live Interactive Dashboard](https://dz8ecbab6irzey3xvqxtrj.streamlit.app/)**
@@ -18,25 +18,25 @@ An enterprise-ready, context-aware Retrieval-Augmented Generation (RAG) system c
    └──> 3. Logging Layer ──> [Pandas ETL] ──> Populates Live BI Dashboard Charts
 
 * **Zero-Hallucination Guardrails:** The LLM architecture is constrained strictly to the context retrieved from the database, preventing it from inventing policies.
-* **Hybrid Layout:** Built using a dual-tab matrix—serving customer inquiries on the frontend while processing event streams for management on the backend.
+* **Cloud-Optimized Footprint:** Designed to bypass the resource constraints of standard cloud environments by decoupling the embedding layer and leveraging high-throughput serverless API routing.
 
 ---
 
 ## 🛠️ Modern Data Stack & Tooling
-* **LLM Engine:** Llama-3.1-8b-instant (Configured via Groq Cloud infra for sub-second inference latency)
-* **Vector Vector DB:** ChromaDB
-* **Embeddings Model:** HuggingFace `all-MiniLM-L6-v2` (100% open-source semantic mapping)
-* **Framework Orchestration:** LangChain v0.3 Core Components
+* **LLM Engine:** Llama-3.1-8b-instant (Hosted via Groq Cloud for sub-second, production-grade inference)
+* **Vector Database:** ChromaDB
+* **Embeddings Model:** HuggingFace `all-MiniLM-L6-v2` (Open-source semantic sentence mapping)
+* **Framework Orchestration:** LangChain v0.3
 * **Data Processing & Analytics:** Pandas & NumPy
-* **Deployment & UI:** Streamlit Cloud Architecture
+* **Deployment & UI:** Streamlit Cloud Architecture & Streamlit Secrets Management
 
 ---
 
 ## 📂 Project Blueprint
 ```text
 ├── app.py                      # Production Web interface and analytics layer
-├── ingest.py                   # Local vector pipeline execution script
+├── ingest.py                   # Vector pipeline database execution script
 ├── chroma_db/                  # Persisted directory containing mathematical document vectors
 ├── knowledge_base/
-│   └── policies.txt            # Unstructured source markdown for company business logic
-└── requirements.txt            # Explicit server dependencies
+│   └── policies.txt            # Unstructured source text for company business logic
+└── requirements.txt            # Explicit cloud environment dependencies
