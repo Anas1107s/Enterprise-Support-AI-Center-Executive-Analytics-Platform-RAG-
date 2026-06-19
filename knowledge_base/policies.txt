@@ -1,12 +1,24 @@
---- ANAS ELECTRONICS REFUND POLICY ---
-Customers can return any electronic gadget within 30 days of delivery for a full refund. 
-To qualify, the item must be in its original packaging with all charging cables included.
-If an item arrives with a broken screen or physical damage, it must be reported within 48 hours of delivery to receive a free replacement. Shipping fees for returns are completely free.
+====================================================================
+ANAS ELECTRONICS - GENERAL TERMS OF SERVICE & SYSTEM POLICIES
+====================================================================
+Last Updated: 2026
 
---- SHIPPING AND DELIVERY TIMES ---
-Standard delivery takes 3 to 5 business days across domestic zones. 
-Express delivery takes 1 to 2 business days but costs an extra 150 rupees.
-Orders placed after 5:00 PM will be processed on the next business day.
+1. SCOPE OF AGREEMENT
+Welcome to Anas Electronics. These General System Policies govern user behavior, account creation, transactional conduct, and core operational baselines across our web application and digital product storefronts. By accessing our platform, you agree to comply with these foundational guidelines.
 
---- REWARDS AND MEMBERSHIP ---
-Premium Elite members get a 10% discount on all checkout baskets automatically. Membership costs 500 rupees per year.
+2. ACCOUNT SECURITY & VERIFICATION
+- To purchase premium hardware products or access member portals, users must create an authenticated profile.
+- All registrations require valid email OTP (One-Time Password) verification to ensure secure account ownership and prevent automated system spam.
+- Users are solely responsible for maintaining the confidentiality of their login credentials. Any unauthorized access must be reported to security nodes immediately.
+
+3. DIGITAL COMPLIANCE AND DATA TRANSFERS
+Anas Electronics operates strictly within local fintech regulations. 
+- All transactional payment APIs are intercepted by our real-time compliance middleware to guarantee fraud prevention, secure data encryption, and transparent financial event streams.
+- User behavior logs, inquiry data vectors, and interaction histories are tracked anonymously to maintain and improve customer service metrics.
+
+4. ACCEPTABLE USE IN PLATFORM ARENAS
+Users participating in community spaces, interactive app portals, or multiplayer game arenas (such as the Snake & Ladder Arena or automated daily services) must maintain non-disruptive behavior. 
+- Exploiting system glitches, utilizing unauthorized API hooks, or scraping platform servers outside of official channels will result in immediate, permanent account suspension.
+
+5. AMENDMENTS TO POLICIES
+Anas Electronics reserves the right to revise these general guidelines, as well as distinct shipping and refund criteria, at any time. Changes become operationally active immediately upon being pushed live to our public documentation database.

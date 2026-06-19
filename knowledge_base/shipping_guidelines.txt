@@ -1,0 +1,28 @@
+====================================================================
+ANAS ELECTRONICS - LOGISTICS, SHIPPING, AND DELIVERY GUIDELINES
+====================================================================
+Last Updated: 2026
+
+1. DOMESTIC SHIPPING TIERS & PRICING
+Anas Electronics offers two primary shipping tiers for all domestic orders:
+
+- STANDARD DELIVERY: Takes 3 to 5 business days to arrive from the date of shipment. Standard delivery is completely free for all orders, with no minimum purchase requirement.
+- EXPRESS DELIVERY: Guaranteed to arrive within 1 to 2 business days. Express delivery incurs an additional flat fee of 150 rupees at checkout.
+
+2. DAILY ORDER PROCESSING CUT-OFF TIME
+Our fulfillment warehouses operate Monday through Friday. 
+- The daily order processing cut-off time is strictly 5:00 PM. 
+- Orders placed before 5:00 PM will be packaged and shipped out on the same business day.
+- Orders placed after 5:00 PM, or during the weekend (Saturday and Sunday), will be processed on the next available business day.
+
+3. COURIER PARTNERS & TRACKING
+All packages are shipped via our verified third-party courier nodes (BlueDart and Delhivery). As soon as an order leaves our facility, an automated email and SMS containing a unique tracking tracking link will be dispatched to the customer.
+
+4. PREMIUM ELITE MEMBERSHIP BENEFIT
+Customers enrolled in our Premium Elite Membership tier receive:
+- Automatic free upgrades from Standard Shipping to Express Delivery (1 to 2 business days) on all orders, bypassing the 150-rupee fee.
+- An automatic 10% discount applied straight to their final checkout shopping cart basket. 
+- Premium Elite Membership costs a flat rate of 500 rupees per year.
+
+5. INTERNATIONAL SHIPPING
+Currently, Anas Electronics only operates and fulfills shipments within domestic zones. We do not support international shipping, global export processing, or delivery to overseas addresses at this time.
