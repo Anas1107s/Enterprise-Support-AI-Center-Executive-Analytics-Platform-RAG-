@@ -7,3 +7,4 @@ sentence-transformers
 chromadb
 torch
 torchvision
+protobuf==3.20.3
